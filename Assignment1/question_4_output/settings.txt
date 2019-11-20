@@ -1,0 +1,23 @@
+Borders:
+
+1.) thick = 2
+border_colour = [0,0,200]
+font_colour = [200,0,0]
+
+2.) thick = 5
+border_colour = [0,100,0]
+font_colour = [50,0,50]
+
+Shadows:
+
+1.) shadow_size = 11
+shadow_magnitude = 3
+orientation = 45
+
+2.) shadow_size = 25
+shadow_magnitude = 8
+orientation = 65
+
+3.) shadow_size = 25
+shadow_magnitude = 4
+orientation = 0
